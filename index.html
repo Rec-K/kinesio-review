@@ -12,7 +12,17 @@
     <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
     <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
     <title>肌动学复习系统</title>
-    <script type="module" crossorigin src="./assets/index-CwvHKMlL.js"></script>
+    <!--
+      预取配图索引：不等 JS 执行完再发请求。
+      实测未预取时：JS 下载到 4.06s 才发起 figs-index.json（+0.35s），
+      图片要等这个索引回来才设置 src —— 平白多一次往返。
+      加上 preload 后它与 JS bundle **并行**下载。
+      （离线版不需要，file:// 下 fetch 会被拦，构建时会去掉这个标签）
+    -->
+    <link rel="preload" as="fetch" href="./figs-index.json" crossorigin="anonymous" />
+    <!-- 与配图 CDN 提前建连，省掉 DNS + TLS 握手 -->
+    <link rel="preconnect" href="https://gcore.jsdelivr.net" crossorigin />
+    <script type="module" crossorigin src="./assets/index-DZQnbsS7.js"></script>
     <link rel="stylesheet" crossorigin href="./assets/index-CQRkUkD0.css">
   </head>
   <body>

@@ -2,7 +2,7 @@
  "m001": {
   "zh": "斜方肌",
   "page": 79,
-  "file": "figs/p079.jpg",
+  "file": "figs/p079.webp",
   "redRatio": 0.0301,
   "redMass": 70084,
   "labelMatched": true,
@@ -14,7 +14,7 @@
  "m002": {
   "zh": "肩胛提肌",
   "page": 80,
-  "file": "figs/p080.jpg",
+  "file": "figs/p080.webp",
   "redRatio": 0.0269,
   "redMass": 46012,
   "labelMatched": false,
@@ -26,7 +26,7 @@
  "m003": {
   "zh": "菱形肌（大/小）",
   "page": 80,
-  "file": "figs/p080.jpg",
+  "file": "figs/p080.webp",
   "redRatio": 0.0269,
   "redMass": 46012,
   "labelMatched": true,
@@ -38,7 +38,7 @@
  "m004": {
   "zh": "前锯肌",
   "page": 81,
-  "file": "figs/p081.jpg",
+  "file": "figs/p081.webp",
   "redRatio": 0.0399,
   "redMass": 57057,
   "labelMatched": true,
@@ -50,7 +50,7 @@
  "m012": {
   "zh": "胸小肌",
   "page": 82,
-  "file": "figs/p082.jpg",
+  "file": "figs/p082.webp",
   "redRatio": 0.0143,
   "redMass": 25670,
   "labelMatched": true,
@@ -62,7 +62,7 @@
  "m057": {
   "zh": "锁骨下肌",
   "page": 82,
-  "file": "figs/p082.jpg",
+  "file": "figs/p082.webp",
   "redRatio": 0.0143,
   "redMass": 25670,
   "labelMatched": true,
@@ -74,7 +74,7 @@
  "m006": {
   "zh": "冈上肌",
   "page": 88,
-  "file": "figs/p088.jpg",
+  "file": "figs/p088.webp",
   "redRatio": 0.0123,
   "redMass": 27638,
   "labelMatched": true,
@@ -86,7 +86,7 @@
  "m007": {
   "zh": "冈下肌",
   "page": 89,
-  "file": "figs/p089.jpg",
+  "file": "figs/p089.webp",
   "redRatio": 0.0153,
   "redMass": 27284,
   "labelMatched": true,
@@ -98,7 +98,7 @@
  "m008": {
   "zh": "小圆肌",
   "page": 89,
-  "file": "figs/p089.jpg",
+  "file": "figs/p089.webp",
   "redRatio": 0.0153,
   "redMass": 27284,
   "labelMatched": true,
@@ -110,7 +110,7 @@
  "m009": {
   "zh": "肩胛下肌",
   "page": 90,
-  "file": "figs/p090.jpg",
+  "file": "figs/p090.webp",
   "redRatio": 0.0855,
   "redMass": 130267,
   "labelMatched": false,
@@ -122,7 +122,7 @@
  "m010": {
   "zh": "背阔肌",
   "page": 91,
-  "file": "figs/p091.jpg",
+  "file": "figs/p091.webp",
   "redRatio": 0.0287,
   "redMass": 73744,
   "labelMatched": true,
@@ -134,7 +134,7 @@
  "m058": {
   "zh": "大圆肌",
   "page": 92,
-  "file": "figs/p092.jpg",
+  "file": "figs/p092.webp",
   "redRatio": 0.0128,
   "redMass": 28313,
   "labelMatched": true,
@@ -146,7 +146,7 @@
  "m059": {
   "zh": "喙肱肌",
   "page": 94,
-  "file": "figs/p094.jpg",
+  "file": "figs/p094.webp",
   "redRatio": 0.0483,
   "redMass": 115188,
   "labelMatched": true,
@@ -158,7 +158,7 @@
  "m005": {
   "zh": "三角肌",
   "page": 96,
-  "file": "figs/p096.jpg",
+  "file": "figs/p096.webp",
   "redRatio": 0.0188,
   "redMass": 24894,
   "labelMatched": true,
@@ -170,7 +170,7 @@
  "m011": {
   "zh": "胸大肌",
   "page": 97,
-  "file": "figs/p097.jpg",
+  "file": "figs/p097.webp",
   "redRatio": 0.024,
   "redMass": 43976,
   "labelMatched": true,
@@ -182,7 +182,7 @@
  "m013": {
   "zh": "肱二头肌",
   "page": 121,
-  "file": "figs/p121.jpg",
+  "file": "figs/p121.webp",
   "redRatio": 0.0124,
   "redMass": 46346,
   "labelMatched": true,
@@ -194,7 +194,7 @@
  "m014": {
   "zh": "肱肌",
   "page": 122,
-  "file": "figs/p122.jpg",
+  "file": "figs/p122.webp",
   "redRatio": 0.0066,
   "redMass": 15063,
   "labelMatched": true,
@@ -206,7 +206,7 @@
  "m016": {
   "zh": "肱桡肌",
   "page": 123,
-  "file": "figs/p123.jpg",
+  "file": "figs/p123.webp",
   "redRatio": 0.0546,
   "redMass": 133403,
   "labelMatched": false,
@@ -218,7 +218,7 @@
  "m015": {
   "zh": "肱三头肌",
   "page": 126,
-  "file": "figs/p126.jpg",
+  "file": "figs/p126.webp",
   "redRatio": 0.0144,
   "redMass": 30467,
   "labelMatched": false,
@@ -230,7 +230,7 @@
  "m060": {
   "zh": "肘肌",
   "page": 127,
-  "file": "figs/p127.jpg",
+  "file": "figs/p127.webp",
   "redRatio": 0.0117,
   "redMass": 23418,
   "labelMatched": true,
@@ -242,7 +242,7 @@
  "m018": {
   "zh": "旋后肌",
   "page": 130,
-  "file": "figs/p130.jpg",
+  "file": "figs/p130.webp",
   "redRatio": 0.0567,
   "redMass": 128271,
   "labelMatched": true,
@@ -254,7 +254,7 @@
  "m017": {
   "zh": "旋前圆肌",
   "page": 132,
-  "file": "figs/p132.jpg",
+  "file": "figs/p132.webp",
   "redRatio": 0.0157,
   "redMass": 31833,
   "labelMatched": true,
@@ -266,7 +266,7 @@
  "m061": {
   "zh": "桡侧腕短伸肌",
   "page": 150,
-  "file": "figs/p150.jpg",
+  "file": "figs/p150.webp",
   "redRatio": 0.0372,
   "redMass": 85031,
   "labelMatched": false,
@@ -278,7 +278,7 @@
  "m021": {
   "zh": "桡侧腕长伸肌",
   "page": 151,
-  "file": "figs/p151.jpg",
+  "file": "figs/p151.webp",
   "redRatio": 0.0109,
   "redMass": 22049,
   "labelMatched": false,
@@ -290,7 +290,7 @@
  "m022": {
   "zh": "尺侧腕伸肌",
   "page": 151,
-  "file": "figs/p151.jpg",
+  "file": "figs/p151.webp",
   "redRatio": 0.0109,
   "redMass": 22049,
   "labelMatched": false,
@@ -302,7 +302,7 @@
  "m019": {
   "zh": "桡侧腕屈肌",
   "page": 153,
-  "file": "figs/p153.jpg",
+  "file": "figs/p153.webp",
   "redRatio": 0.0198,
   "redMass": 26088,
   "labelMatched": false,
@@ -314,7 +314,7 @@
  "m020": {
   "zh": "尺侧腕屈肌",
   "page": 153,
-  "file": "figs/p153.jpg",
+  "file": "figs/p153.webp",
   "redRatio": 0.0198,
   "redMass": 26088,
   "labelMatched": true,
@@ -326,7 +326,7 @@
  "m023": {
   "zh": "指浅屈肌",
   "page": 175,
-  "file": "figs/p175.jpg",
+  "file": "figs/p175.webp",
   "redRatio": 0.0138,
   "redMass": 24612,
   "labelMatched": true,
@@ -338,7 +338,7 @@
  "m024": {
   "zh": "指深屈肌",
   "page": 176,
-  "file": "figs/p176.jpg",
+  "file": "figs/p176.webp",
   "redRatio": 0.0193,
   "redMass": 49117,
   "labelMatched": true,
@@ -350,7 +350,7 @@
  "m025": {
   "zh": "指伸肌",
   "page": 180,
-  "file": "figs/p180.jpg",
+  "file": "figs/p180.webp",
   "redRatio": 0.0427,
   "redMass": 83329,
   "labelMatched": true,
@@ -362,7 +362,7 @@
  "m062": {
   "zh": "示指伸肌",
   "page": 180,
-  "file": "figs/p180.jpg",
+  "file": "figs/p180.webp",
   "redRatio": 0.0427,
   "redMass": 83329,
   "labelMatched": true,
@@ -374,7 +374,7 @@
  "m063": {
   "zh": "拇长伸肌",
   "page": 181,
-  "file": "figs/p181.jpg",
+  "file": "figs/p181.webp",
   "redRatio": 0.027,
   "redMass": 52694,
   "labelMatched": true,
@@ -386,7 +386,7 @@
  "m026": {
   "zh": "胸锁乳突肌",
   "page": 230,
-  "file": "figs/p230.jpg",
+  "file": "figs/p230.webp",
   "redRatio": 0.0104,
   "redMass": 14282,
   "labelMatched": true,
@@ -398,7 +398,7 @@
  "m027": {
   "zh": "腹直肌",
   "page": 237,
-  "file": "figs/p237.jpg",
+  "file": "figs/p237.webp",
   "redRatio": 0.0501,
   "redMass": 70270,
   "labelMatched": true,
@@ -410,7 +410,7 @@
  "m028": {
   "zh": "腹外斜肌",
   "page": 238,
-  "file": "figs/p238.jpg",
+  "file": "figs/p238.webp",
   "redRatio": 0.0506,
   "redMass": 86558,
   "labelMatched": true,
@@ -422,7 +422,7 @@
  "m029": {
   "zh": "腹横肌",
   "page": 239,
-  "file": "figs/p239.jpg",
+  "file": "figs/p239.webp",
   "redRatio": 0.0249,
   "redMass": 38840,
   "labelMatched": true,
@@ -434,7 +434,7 @@
  "m032": {
   "zh": "腰方肌",
   "page": 240,
-  "file": "figs/p240.jpg",
+  "file": "figs/p240.webp",
   "redRatio": 0.0419,
   "redMass": 86253,
   "labelMatched": false,
@@ -446,7 +446,7 @@
  "m033": {
   "zh": "髂腰肌",
   "page": 240,
-  "file": "figs/p240.jpg",
+  "file": "figs/p240.webp",
   "redRatio": 0.0419,
   "redMass": 86253,
   "labelMatched": false,
@@ -458,7 +458,7 @@
  "m031": {
   "zh": "竖脊肌",
   "page": 244,
-  "file": "figs/p244.jpg",
+  "file": "figs/p244.webp",
   "redRatio": 0.0611,
   "redMass": 122679,
   "labelMatched": false,
@@ -470,7 +470,7 @@
  "m030": {
   "zh": "多裂肌",
   "page": 247,
-  "file": "figs/p247.jpg",
+  "file": "figs/p247.webp",
   "redRatio": 0.0208,
   "redMass": 27318,
   "labelMatched": true,
@@ -482,7 +482,7 @@
  "m064": {
   "zh": "缝匠肌",
   "page": 274,
-  "file": "figs/p274.jpg",
+  "file": "figs/p274.webp",
   "redRatio": 0.0098,
   "redMass": 20306,
   "labelMatched": true,
@@ -494,7 +494,7 @@
  "m037": {
   "zh": "阔筋膜张肌",
   "page": 275,
-  "file": "figs/p275.jpg",
+  "file": "figs/p275.webp",
   "redRatio": 0.0072,
   "redMass": 12305,
   "labelMatched": true,
@@ -506,7 +506,7 @@
  "m034": {
   "zh": "臀大肌",
   "page": 278,
-  "file": "figs/p278.jpg",
+  "file": "figs/p278.webp",
   "redRatio": 0.0348,
   "redMass": 45232,
   "labelMatched": true,
@@ -518,7 +518,7 @@
  "m043": {
   "zh": "股二头肌",
   "page": 279,
-  "file": "figs/p279.jpg",
+  "file": "figs/p279.webp",
   "redRatio": 0.0141,
   "redMass": 22991,
   "labelMatched": true,
@@ -530,7 +530,7 @@
  "m044": {
   "zh": "半腱肌",
   "page": 279,
-  "file": "figs/p279.jpg",
+  "file": "figs/p279.webp",
   "redRatio": 0.0141,
   "redMass": 22991,
   "labelMatched": true,
@@ -542,7 +542,7 @@
  "m045": {
   "zh": "半膜肌",
   "page": 280,
-  "file": "figs/p280.jpg",
+  "file": "figs/p280.webp",
   "redRatio": 0.0155,
   "redMass": 27576,
   "labelMatched": true,
@@ -554,7 +554,7 @@
  "m035": {
   "zh": "臀中肌",
   "page": 283,
-  "file": "figs/p283.jpg",
+  "file": "figs/p283.webp",
   "redRatio": 0.0148,
   "redMass": 15916,
   "labelMatched": true,
@@ -566,7 +566,7 @@
  "m036": {
   "zh": "臀小肌",
   "page": 284,
-  "file": "figs/p284.jpg",
+  "file": "figs/p284.webp",
   "redRatio": 0.0179,
   "redMass": 20319,
   "labelMatched": true,
@@ -578,7 +578,7 @@
  "m065": {
   "zh": "耻骨肌",
   "page": 288,
-  "file": "figs/p288.jpg",
+  "file": "figs/p288.webp",
   "redRatio": 0.0097,
   "redMass": 13903,
   "labelMatched": true,
@@ -590,7 +590,7 @@
  "m038": {
   "zh": "长收肌",
   "page": 289,
-  "file": "figs/p289.jpg",
+  "file": "figs/p289.webp",
   "redRatio": 0.0114,
   "redMass": 21306,
   "labelMatched": true,
@@ -602,7 +602,7 @@
  "m066": {
   "zh": "股薄肌",
   "page": 289,
-  "file": "figs/p289.jpg",
+  "file": "figs/p289.webp",
   "redRatio": 0.0114,
   "redMass": 21306,
   "labelMatched": true,
@@ -614,7 +614,7 @@
  "m067": {
   "zh": "大收肌",
   "page": 290,
-  "file": "figs/p290.jpg",
+  "file": "figs/p290.webp",
   "redRatio": 0.0135,
   "redMass": 23433,
   "labelMatched": true,
@@ -626,7 +626,7 @@
  "m068": {
   "zh": "短收肌",
   "page": 290,
-  "file": "figs/p290.jpg",
+  "file": "figs/p290.webp",
   "redRatio": 0.0135,
   "redMass": 23433,
   "labelMatched": true,
@@ -638,7 +638,7 @@
  "m039": {
   "zh": "梨状肌",
   "page": 291,
-  "file": "figs/p291.jpg",
+  "file": "figs/p291.webp",
   "redRatio": 0.01,
   "redMass": 18602,
   "labelMatched": false,
@@ -650,7 +650,7 @@
  "m040": {
   "zh": "股直肌",
   "page": 318,
-  "file": "figs/p318.jpg",
+  "file": "figs/p318.webp",
   "redRatio": 0.0272,
   "redMass": 77897,
   "labelMatched": true,
@@ -662,7 +662,7 @@
  "m041": {
   "zh": "股外侧肌",
   "page": 319,
-  "file": "figs/p319.jpg",
+  "file": "figs/p319.webp",
   "redRatio": 0.0359,
   "redMass": 93283,
   "labelMatched": true,
@@ -674,7 +674,7 @@
  "m042": {
   "zh": "股内侧肌",
   "page": 319,
-  "file": "figs/p319.jpg",
+  "file": "figs/p319.webp",
   "redRatio": 0.0359,
   "redMass": 93283,
   "labelMatched": true,
@@ -686,7 +686,7 @@
  "m069": {
   "zh": "股中间肌",
   "page": 319,
-  "file": "figs/p319.jpg",
+  "file": "figs/p319.webp",
   "redRatio": 0.0359,
   "redMass": 93283,
   "labelMatched": true,
@@ -698,7 +698,7 @@
  "m048": {
   "zh": "胫骨前肌",
   "page": 357,
-  "file": "figs/p357.jpg",
+  "file": "figs/p357.webp",
   "redRatio": 0.0128,
   "redMass": 31851,
   "labelMatched": true,
@@ -710,7 +710,7 @@
  "m070": {
   "zh": "趾长伸肌",
   "page": 359,
-  "file": "figs/p359.jpg",
+  "file": "figs/p359.webp",
   "redRatio": 0.0136,
   "redMass": 38514,
   "labelMatched": true,
@@ -722,7 +722,7 @@
  "m050": {
   "zh": "腓骨长肌",
   "page": 361,
-  "file": "figs/p361.jpg",
+  "file": "figs/p361.webp",
   "redRatio": 0.0112,
   "redMass": 27211,
   "labelMatched": false,
@@ -734,7 +734,7 @@
  "m071": {
   "zh": "腓骨短肌",
   "page": 362,
-  "file": "figs/p362.jpg",
+  "file": "figs/p362.webp",
   "redRatio": 0.0026,
   "redMass": 6045,
   "labelMatched": false,
@@ -746,7 +746,7 @@
  "m046": {
   "zh": "腓肠肌",
   "page": 364,
-  "file": "figs/p364.jpg",
+  "file": "figs/p364.webp",
   "redRatio": 0.0318,
   "redMass": 81570,
   "labelMatched": false,
@@ -758,7 +758,7 @@
  "m047": {
   "zh": "比目鱼肌",
   "page": 365,
-  "file": "figs/p365.jpg",
+  "file": "figs/p365.webp",
   "redRatio": 0.0261,
   "redMass": 62453,
   "labelMatched": true,
@@ -770,7 +770,7 @@
  "m049": {
   "zh": "胫骨后肌",
   "page": 368,
-  "file": "figs/p368.jpg",
+  "file": "figs/p368.webp",
   "redRatio": 0.0167,
   "redMass": 44577,
   "labelMatched": true,
@@ -782,7 +782,7 @@
  "m072": {
   "zh": "趾长屈肌",
   "page": 368,
-  "file": "figs/p368.jpg",
+  "file": "figs/p368.webp",
   "redRatio": 0.0167,
   "redMass": 44577,
   "labelMatched": true,
@@ -794,7 +794,7 @@
  "m051": {
   "zh": "咬肌",
   "page": 401,
-  "file": "figs/p401.jpg",
+  "file": "figs/p401.webp",
   "redRatio": 0.0479,
   "redMass": 104252,
   "labelMatched": true,
@@ -806,7 +806,7 @@
  "m052": {
   "zh": "颞肌",
   "page": 402,
-  "file": "figs/p402.jpg",
+  "file": "figs/p402.webp",
   "redRatio": 0.0838,
   "redMass": 154682,
   "labelMatched": true,
@@ -818,7 +818,7 @@
  "m053": {
   "zh": "翼内肌",
   "page": 402,
-  "file": "figs/p402.jpg",
+  "file": "figs/p402.webp",
   "redRatio": 0.0838,
   "redMass": 154682,
   "labelMatched": false,
@@ -830,7 +830,7 @@
  "m054": {
   "zh": "翼外肌",
   "page": 403,
-  "file": "figs/p403.jpg",
+  "file": "figs/p403.webp",
   "redRatio": 0.033,
   "redMass": 67870,
   "labelMatched": true,
@@ -842,7 +842,7 @@
  "m055": {
   "zh": "膈肌",
   "page": 408,
-  "file": "figs/p408.jpg",
+  "file": "figs/p408.webp",
   "redRatio": 0.0324,
   "redMass": 50925,
   "labelMatched": true,
@@ -854,7 +854,7 @@
  "m056": {
   "zh": "肋间外肌",
   "page": 409,
-  "file": "figs/p409.jpg",
+  "file": "figs/p409.webp",
   "redRatio": 0.0913,
   "redMass": 176110,
   "labelMatched": true,
